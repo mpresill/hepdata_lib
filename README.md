@@ -23,6 +23,10 @@ If you are not sure about your Python environment, please also see below how to 
 
 For using `hepdata_lib`, you don't even need to install it, but can use the [binder](https://mybinder.org/) or [SWAN](https://swan.cern.ch/) (CERN-only) services using one of the buttons below and following the instructions in the notebook with name [Getting_started](examples/Getting_started.ipynb):
 
+This is for this fork:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mpresill/hepdata_lib.git/HEAD)
+
+and this is for the original repo:
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/HEPData/hepdata_lib/master?filepath=examples/Getting_started.ipynb)
 [![SWAN](https://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png)](https://cern.ch/swanserver/cgi-bin/go/?projurl=https://github.com/HEPData/hepdata_lib.git)
 
