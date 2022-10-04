@@ -1,7 +1,7 @@
 SELECTION           mumujj   eejj
 ---------           ------  -----
 Trigger             0.692   0.515
-LeadingLepton>150GeV     0.692  0.515
-SubleadingLepton>100GeV   0.692  0.515  
+LeadingLeptonPt>150GeV     0.692  0.515
+SubleadingLeptonPt>100GeV   0.692  0.515  
 m(ll)>300GeV              0.659  0.491
 numberOfFatJets>0         0.379  0.284      
